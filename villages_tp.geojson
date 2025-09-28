@@ -1,0 +1,916 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-09-15T16:24:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245716839",
+        "name": "Sakhan",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1581322,
+          23.8075779
+        ]
+      },
+      "id": "node/245716839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245717079",
+        "name": "Jirania",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4456753,
+          23.8192121
+        ]
+      },
+      "id": "node/245717079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245717567",
+        "name": "Sabual",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.263347,
+          23.863794
+        ]
+      },
+      "id": "node/245717567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245718159",
+        "name": "Vanghmun",
+        "place": "village",
+        "population": "1500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2787719,
+          23.9883786
+        ]
+      },
+      "id": "node/245718159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245718375",
+        "name": "Bamutia",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2853504,
+          23.9612637
+        ]
+      },
+      "id": "node/245718375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245719153",
+        "name": "Halahali",
+        "place": "village",
+        "postal_code": "799286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8256187,
+          24.1049237
+        ]
+      },
+      "id": "node/245719153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245720273",
+        "AND_a_nosr_p": "10014989",
+        "name": "Damchara",
+        "place": "village",
+        "source": "AND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2941674,
+          24.2381895
+        ]
+      },
+      "id": "node/245720273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245720331",
+        "name": "Pecharthal",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1028197,
+          24.189441
+        ]
+      },
+      "id": "node/245720331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1472750570",
+        "name": "Auliraipara",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8861401,
+          23.8933984
+        ]
+      },
+      "id": "node/1472750570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1786432757",
+        "name": "Manu Bazar",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6432464,
+          23.0760714
+        ]
+      },
+      "id": "node/1786432757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2461591963",
+        "name": "Khayerpur",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3451815,
+          23.8478087
+        ]
+      },
+      "id": "node/2461591963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2461651935",
+        "name": "Luaogang Bazar",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5533045,
+          23.2885567
+        ]
+      },
+      "id": "node/2461651935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2555537242",
+        "name": "Kanchanpur",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.200098,
+          24.0380572
+        ]
+      },
+      "id": "node/2555537242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2555537352",
+        "name": "Dasda Bazar",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2071609,
+          23.9462392
+        ]
+      },
+      "id": "node/2555537352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2555537353",
+        "name": "Tuichhama",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2181331,
+          23.9273042
+        ]
+      },
+      "id": "node/2555537353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2555537354",
+        "name": "Gachirampara",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2061938,
+          23.9010468
+        ]
+      },
+      "id": "node/2555537354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2555537355",
+        "name": "Borchora",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2062153,
+          23.8625906
+        ]
+      },
+      "id": "node/2555537355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4885600719",
+        "name": "Jolaibari",
+        "place": "village",
+        "population": "11800",
+        "population:date": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6146576,
+          23.2191387
+        ]
+      },
+      "id": "node/4885600719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4885601065",
+        "name": "Churaibari",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2456741,
+          24.4364056
+        ]
+      },
+      "id": "node/4885601065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5232510257",
+        "name": "Chhimluang",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.3129439,
+          23.9457823
+        ]
+      },
+      "id": "node/5232510257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5232510258",
+        "name": "Chailengta",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0009708,
+          23.943782
+        ]
+      },
+      "id": "node/5232510258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5232535021",
+        "name": "Raishyabari, PHC",
+        "name:bn": "রিশ্যাবাড়ি",
+        "name:en": "Raishyabari",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9129943,
+          23.4530893
+        ]
+      },
+      "id": "node/5232535021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6197811109",
+        "name": "Nutan Bazar",
+        "name:bn": "নতুন বাজার",
+        "name:en": "Nutan Bazar",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7536469,
+          23.428749
+        ]
+      },
+      "id": "node/6197811109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6829788085",
+        "name": "Hezamara",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4522338,
+          24.0184002
+        ]
+      },
+      "id": "node/6829788085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161051034",
+        "name": "Jampuii Hills",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2783327,
+          23.9651367
+        ]
+      },
+      "id": "node/7161051034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161894052",
+        "name": "Karbook",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7498302,
+          23.3425711
+        ]
+      },
+      "id": "node/7161894052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161894053",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8316698,
+          23.5772037
+        ]
+      },
+      "id": "node/7161894053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161894054",
+        "name": "Mungiakami",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7067003,
+          23.8822276
+        ]
+      },
+      "id": "node/7161894054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161894055",
+        "name": "Tulashikhar",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6654157,
+          24.0655094
+        ]
+      },
+      "id": "node/7161894055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161894056",
+        "name": "Salema",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8356824,
+          24.0129808
+        ]
+      },
+      "id": "node/7161894056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161894057",
+        "name": "Chawmanu",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9964647,
+          23.8542066
+        ]
+      },
+      "id": "node/7161894057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161894058",
+        "name": "Kadamtala",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2118783,
+          24.4549629
+        ]
+      },
+      "id": "node/7161894058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161919825",
+        "name": "Kakraban",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4047479,
+          23.486274
+        ]
+      },
+      "id": "node/7161919825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161931782",
+        "name": "Kathalia",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3299036,
+          23.3604588
+        ]
+      },
+      "id": "node/7161931782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161931783",
+        "name": "Bardos",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3927745,
+          23.23551
+        ]
+      },
+      "id": "node/7161931783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161931784",
+        "name": "Hrishyamukh",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5222487,
+          23.1237953
+        ]
+      },
+      "id": "node/7161931784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161949485",
+        "name": "Rupaichhari",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6986322,
+          23.0752309
+        ]
+      },
+      "id": "node/7161949485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161960381",
+        "name": "Dulki",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2958288,
+          23.7974788
+        ]
+      },
+      "id": "node/7161960381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161960382",
+        "name": "Mohanpur",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4069795,
+          23.9897814
+        ]
+      },
+      "id": "node/7161960382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161971602",
+        "name": "Jampuijala",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4567613,
+          23.7078023
+        ]
+      },
+      "id": "node/7161971602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161971603",
+        "name": "Killa",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5185594,
+          23.6147612
+        ]
+      },
+      "id": "node/7161971603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161971604",
+        "name": "Ampinagar",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6345703,
+          23.6752827
+        ]
+      },
+      "id": "node/7161971604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161971605",
+        "name": "Boxanagar",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1670398,
+          23.6115761
+        ]
+      },
+      "id": "node/7161971605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161987054",
+        "name": "Mandwi",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4810514,
+          23.86186
+        ]
+      },
+      "id": "node/7161987054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7162005131",
+        "name": "Kalyanpur",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6077375,
+          23.9323286
+        ]
+      },
+      "id": "node/7162005131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7162005132",
+        "name": "Padmabil",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5823316,
+          24.0642947
+        ]
+      },
+      "id": "node/7162005132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7284724233",
+        "name": "Silachari",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7734981,
+          23.2315861
+        ]
+      },
+      "id": "node/7284724233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7285117508",
+        "name": "Ganganagar",
+        "name:uk": "Ґанґанаґар",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8462771,
+          23.7770978
+        ]
+      },
+      "id": "node/7285117508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7817108427",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1616973,
+          24.0605015
+        ]
+      },
+      "id": "node/7817108427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7817108457",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1441987,
+          24.0699386
+        ]
+      },
+      "id": "node/7817108457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7817108665",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1420473,
+          24.093601
+        ]
+      },
+      "id": "node/7817108665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10548616320",
+        "name": "Champaknagar",
+        "place": "village",
+        "population": "2600",
+        "population:date": "2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4891292,
+          23.8042948
+        ]
+      },
+      "id": "node/10548616320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10548646444",
+        "name": "Takarjala",
+        "place": "village",
+        "population": "6156",
+        "population:date": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4198135,
+          23.7059375
+        ]
+      },
+      "id": "node/10548646444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12138120130",
+        "name": "পশ্চিম কালাজরি R.F. পার্ট",
+        "name:en": "Paschim Kalajari R.F. part",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8057349,
+          23.4137539
+        ]
+      },
+      "id": "node/12138120130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12203883369",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7973067,
+          23.9933309
+        ]
+      },
+      "id": "node/12203883369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13138467832",
+        "name": "Kelreng",
+        "place": "village",
+        "population": "250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.582766,
+          23.7679206
+        ]
+      },
+      "id": "node/13138467832"
+    }
+  ]
+}

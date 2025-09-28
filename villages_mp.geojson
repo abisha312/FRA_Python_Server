@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "village_name": "Village A",
+        "district": "Bhopal",
+        "population": 1200
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [77.35, 23.25],
+          [77.38, 23.25],
+          [77.38, 23.28],
+          [77.35, 23.28],
+          [77.35, 23.25]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_name": "Village B",
+        "district": "Sehore",
+        "population": 950
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [77.05, 23.10],
+          [77.08, 23.10],
+          [77.08, 23.13],
+          [77.05, 23.13],
+          [77.05, 23.10]
+        ]]
+      }
+    }
+  ]
+}
